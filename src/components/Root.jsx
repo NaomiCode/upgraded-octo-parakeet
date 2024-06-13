@@ -4,7 +4,6 @@ import { useEffect, useMemo } from 'react';
 
 import { App } from '@/components/App.jsx';
 import { ErrorBoundary } from '@/components/ErrorBoundary.jsx';
-
 /**
  * @param {unknown} error
  * @returns {JSX.Element}

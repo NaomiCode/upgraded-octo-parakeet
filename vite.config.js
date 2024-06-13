@@ -6,7 +6,7 @@ import { defineConfig } from 'vite';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/reactjs-js-template/',
+  base: '/',
   plugins: [react()],
   // Uncomment the next lines in case, you would like to run Vite dev server using HTTPS and in case,
   // you have key and certificate. You retrieve your certificate and key using mkcert.
