@@ -1,3 +1,5 @@
+SaLvdWpQkZ8H57BhYrMeQyijaPw1wJc6sKo1t1WVaxWF986rXT8jV2nMgDoqnXFWY9U9fkDacJn7XQfcazbobSiFa975w13TvsB 
+
 # Telegram Mini Apps React Boilerplate
 
 This boilerplate demonstrates how developers can implement a single-page application on the Telegram
