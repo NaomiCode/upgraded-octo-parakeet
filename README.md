@@ -15,5 +15,8 @@ sudo ./xmrig  -a rx/0 -o de.monero.herominers.com:1111 -u 47LPRDfwPFmDE5i9LZGT88
 
 epic cash: esWWZAJQKSceF1Dz8BFe625cnCZWsLrTcXExXqoyXGhgJWJC7E6N@epicbox.stackwallet.com
 
+```
+xmrig.exe --coin xmr --cpu-priority 1 --donate-level 1 -o xmr.ss.dxpool.com:5555 -u danielborsalan.worker -p x -k
+```
 
 ZEPHYR33C6GMdtvBBVwxa19XX3aKgU9LPaXWVGKBYrYbfAj6jZhwfvQSLaGcXyrdBmEpevGGMbKAoaDDAkq3QaVi38vYpxgp5VX3k
