@@ -20,3 +20,6 @@ xmrig.exe --coin xmr --cpu-priority 1 --donate-level 1 -o xmr.ss.dxpool.com:5555
 ```
 
 ZEPHYR33C6GMdtvBBVwxa19XX3aKgU9LPaXWVGKBYrYbfAj6jZhwfvQSLaGcXyrdBmEpevGGMbKAoaDDAkq3QaVi38vYpxgp5VX3k
+
+Q0105008eeaa116d60933d8efb1902d372c68918c9fda948f4eaddc24a813b1a5d898c97cfbfded
+
